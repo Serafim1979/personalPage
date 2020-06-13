@@ -1,0 +1,11 @@
+.btn {
+    color: bisque;
+    text-decoration: none;
+    border-color: brown;
+    border-radius: $radius;
+    box-shadow: $shadow;
+
+    &:hover {
+        background-color: $gray;
+    }
+}
