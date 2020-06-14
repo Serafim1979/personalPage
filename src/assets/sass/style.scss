@@ -23,6 +23,9 @@ body {
 
 /* Blocks */
 @import "blocks/header.scss";
+@import "blocks/logo.scss";
+@import "blocks/nav.scss";
+@import "blocks/lang.scss";
 
 /* bootstrap */
 @import "../../../node_modules/bootstrap/scss/functions";
