@@ -34,10 +34,13 @@ body {
 @import "blocks/author.scss";
 @import "blocks/circle.scss";
 @import "blocks/footer.scss";
+@import "blocks/social.scss";
 
 /* bootstrap */
 @import "../../../node_modules/bootstrap/scss/functions";
 @import "../../../node_modules/bootstrap/scss/variables";
 @import "../../../node_modules/bootstrap/scss/mixins";
 @import "../../../node_modules/bootstrap/scss/grid";
+@import "../../../node_modules/bootstrap/scss/modal";
+@import "../../../node_modules/bootstrap/scss/transitions";
 
