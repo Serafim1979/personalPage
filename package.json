@@ -21,6 +21,7 @@
     },
     "dependencies": {
         "bootstrap": "^4.5.0",
+        "js-yaml": "^3.14.0",
         "slick-carousel": "^1.8.1"
     }
 }
