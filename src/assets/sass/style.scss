@@ -23,6 +23,7 @@ body {
 
 /* Blocks */
 @import "blocks/page.scss";
+@import "blocks/portfolio.scss";
 @import "blocks/header.scss";
 @import "blocks/content.scss";
 @import "blocks/logo.scss";
@@ -39,6 +40,9 @@ body {
 @import "blocks/modal.scss";
 @import "blocks/form.scss";
 @import "blocks/input.scss";
+
+/* Vendor libs */
+@import "vendor/slick.scss";
 
 /* bootstrap */
 @import "../../../node_modules/bootstrap/scss/functions";
